@@ -1,7 +1,7 @@
 
 # Ishara Nushangani – Digital CV
 
-<img src="profile.jpg" alt="Ishara Nushangani" width="150"/>
+<img src="profile.jpeg" alt="Ishara Nushangani" width="150"/>
 
 ## Contact
 - Email: nushangani93@gmail.com
